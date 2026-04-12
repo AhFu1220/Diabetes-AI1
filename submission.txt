@@ -1,0 +1,7 @@
+Hi Dr Goh, the following link is the link to our GitHub project
+
+https://github.com/AhFu1220/Diabetes-AI1
+
+Note: app.py is the main python file, it is a streamlit and python based file so Sir may need to run it on streamlit to see the full result. Thank you very much sir!
+
+ann.classifier.py, svm_classifier.py, knn.py -> each one of these is the single classification method .py file, sir also can run each of the py file to see the result for each classification method result. Thank you sir!
