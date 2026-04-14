@@ -443,7 +443,7 @@ def system_checker_page():
         c1, c2, c3 = st.columns(3)
         age = c1.number_input("Age (Years)", min_value=1, max_value=120, value=30)
         bmi = c2.number_input("BMI", min_value=0.0, value=28.0, step=0.1)
-        bp = c3.number_input("Blood Pressure (mm Hg)", min_value=0.0, value=70.0)
+        bp = c3.number_input("Blood Pressure (mmHg Diastolic)", min_value=0.0, value=70.0)
         
         st.markdown("#### 🩸 Lab Results")
         c4, c5, c6 = st.columns(3)
